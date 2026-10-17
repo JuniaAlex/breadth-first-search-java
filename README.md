@@ -1,6 +1,8 @@
 # Breadth-First Search (BFS) Algorithm
 ## DAA Assignment 2 — Java Implementation
 
+🌐 **Live Demo:** [https://JuniaAlex.github.io/breadth-first-search-java/](https://JuniaAlex.github.io/breadth-first-search-java/)
+
 ---
 
 ## Overview
